@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chinsun9/ts-repo-template/issues"
   },
-  "homepage": "https://github.com/chinsun9/ts-repo-template#readme"
+  "homepage": "https://github.com/chinsun9/ts-repo-template#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
 }
