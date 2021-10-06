@@ -12,12 +12,12 @@
     "url": "git+https://github.com/{username}/{reponame}.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "{username} <{email}>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/{username}/{reponame}/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/{username}/{reponame}#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
