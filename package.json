@@ -1,18 +1,18 @@
 {
-  "name": "{reponame}",
+  "name": "reponame",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/{username}/{reponame}#readme",
+  "homepage": "https://github.com/username/reponame#readme",
   "bugs": {
-    "url": "https://github.com/{username}/{reponame}/issues"
+    "url": "https://github.com/username/reponame/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{username}/{reponame}.git"
+    "url": "git+https://github.com/username/reponame.git"
   },
   "license": "MIT",
-  "author": "{username} <{email}>",
+  "author": "username <email>",
   "main": "index.js",
   "scripts": {
     "test": "jest",
