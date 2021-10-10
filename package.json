@@ -2,22 +2,22 @@
   "name": "{reponame}",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch"
+  "keywords": [],
+  "homepage": "https://github.com/{username}/{reponame}#readme",
+  "bugs": {
+    "url": "https://github.com/{username}/{reponame}/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/{username}/{reponame}.git"
   },
-  "keywords": [],
-  "author": "{username} <{email}>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/{username}/{reponame}/issues"
+  "author": "{username} <{email}>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
-  "homepage": "https://github.com/{username}/{reponame}#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
