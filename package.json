@@ -15,6 +15,7 @@
   "author": "username <email>",
   "main": "index.js",
   "scripts": {
+    "build": "tsc --build tsconfig.build.json",
     "test": "jest",
     "test:watch": "jest --watch"
   },
